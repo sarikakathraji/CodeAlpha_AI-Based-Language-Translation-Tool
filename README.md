@@ -42,9 +42,7 @@ Language_Translator/
 ├── main.py
 ├── README.md
 ├── requirements.txt
-└── screenshots/
-    ├── home.png
-    └── output.png
+
 ```
 
 ## Working Procedure
