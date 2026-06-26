@@ -14,6 +14,8 @@ A simple application that translates text from one language to another using a t
 - Copy translated text
 - Clear input and output fields
 - Error handling for invalid input
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b146c7e-8f6b-4287-942e-371c4d5e7029" />
+
 
 ## Technologies Used
 - Python 3
